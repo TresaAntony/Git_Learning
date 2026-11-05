@@ -1,7 +1,8 @@
 //EDIT FROM GITHUB
 //EDIT FROM LOCAL TO GITHUB
 //EDIT - TO CHECK GITHUB CHANGE MERGE
-
+// Rules set in main
+// Changes from VS to sub branch in GitHub
 import { test, expect } from '@playwright/test';
 
 test('has title', async ({ page }) => {
