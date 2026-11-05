@@ -1,6 +1,7 @@
 //EDIT FROM GITHUB
 //EDIT FROM LOCAL TO GITHUB
 //EDIT - TO CHECK GITHUB CHANGE MERGE
+// TO CHECK Branch Protection Rule
 
 import { test, expect } from '@playwright/test';
 
