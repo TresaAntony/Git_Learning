@@ -1,6 +1,7 @@
 //EDIT FROM GITHUB
 //EDIT FROM LOCAL TO GITHUB
 //EDIT - TO CHECK GITHUB CHANGE MERGE
+//RULES SET IN MAIN- SUB BRANCH CREATED
 
 import { test, expect } from '@playwright/test';
 
